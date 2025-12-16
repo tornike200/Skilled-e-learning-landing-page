@@ -1,8 +1,6 @@
 # Frontend Mentor - Skilled e-learning landing page solution
 
-## Design overview
 
-[figma desugn link](https://www.figma.com/design/MyET4e9QMZ7Jc5PCGqfx38/skilled-elearning-landing-page?node-id=4-2&p=f&m=dev)
 
 This is a solution to the [Skilled e-learning landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
